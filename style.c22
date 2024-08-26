@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 60%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+#resultsContainer, #knowledgeGraphContainer {
+  padding: 20px;
+}
+
+.results-item, .knowledge-graph-item {
+  margin-bottom: 20px;
+}
